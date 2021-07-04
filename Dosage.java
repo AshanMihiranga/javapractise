@@ -8,11 +8,11 @@ switch(user_input){
 case "kid":
 System.out.println("Take 1 tablet at night");
 break;
-case "Teenage":
-System.out.println("Take 1 tablet at night");
+case "Teenager":
+System.out.println("Take 1 tablet at morning");
 break;
 case "abult":
-System.out.println("Take 1 tablet at night");
+System.out.println("Take 1 tablet at evening");
 break;
 default:
 System.out.println("invalid input");
